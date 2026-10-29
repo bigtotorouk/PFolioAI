@@ -1,18 +1,18 @@
-# PortfolioAI Privacy Policy
+# PFolioAI Privacy Policy
 
 **Last Updated: September 23, 2026**
 
-PortfolioAI ("PortfolioAI", "we", "us", or "our") respects your privacy. This Privacy Policy explains how PortfolioAI handles information when you use our mobile application and related services.
+PFolioAI ("PFolioAI", "we", "us", or "our") respects your privacy. This Privacy Policy explains how PFolioAI handles information when you use our mobile application and related services.
 
-PortfolioAI is designed as a personal portfolio analysis and investment education tool. We aim to minimize the amount of personal information collected and, whenever possible, keep your portfolio data on your device.
+PFolioAI is designed as a personal portfolio analysis and investment education tool. We aim to minimize the amount of personal information collected and, whenever possible, keep your portfolio data on your device.
 
-By using PortfolioAI, you agree to the practices described in this Privacy Policy.
+By using PFolioAI, you agree to the practices described in this Privacy Policy.
 
 ## 1. Information We Collect
 
 ### 1.1 Portfolio and Financial Information
 
-PortfolioAI may allow you to enter or import information such as:
+PFolioAI may allow you to enter or import information such as:
 
 * Stock, ETF, cryptocurrency, or other asset holdings
 * Asset symbols and names
@@ -30,7 +30,7 @@ We do not require you to provide your real name, physical address, or other iden
 
 ### 1.2 Information You Provide When Using AI Features
 
-PortfolioAI may provide AI-powered portfolio analysis, explanations, summaries, or other AI-related functionality.
+PFolioAI may provide AI-powered portfolio analysis, explanations, summaries, or other AI-related functionality.
 
 When you explicitly use an AI feature, information necessary to generate the requested response may be transmitted from your device to our backend service and/or third-party AI service providers.
 
@@ -46,7 +46,7 @@ We do not intentionally include unnecessary personal identifiers in AI requests.
 
 Unless otherwise stated in this Privacy Policy, portfolio information is not intended to be stored permanently on our servers.
 
-You should avoid entering passwords, private keys, API keys, account credentials, or other highly sensitive information into PortfolioAI.
+You should avoid entering passwords, private keys, API keys, account credentials, or other highly sensitive information into PFolioAI.
 
 ### 1.3 Device and Usage Information
 
@@ -80,7 +80,7 @@ We do not use your portfolio information to make investment decisions on your be
 
 ## 3. Local Storage
 
-PortfolioAI is designed with a local-first approach.
+PFolioAI is designed with a local-first approach.
 
 Portfolio information that you enter into the application may be stored locally on your device. Such information may remain on your device until you delete it, uninstall the application, or otherwise remove the stored application data.
 
@@ -88,7 +88,7 @@ Because locally stored information is controlled by your device, you should use 
 
 ## 4. AI Service Providers
 
-When you use AI-powered functionality, PortfolioAI may transmit the information required to process your request to third-party AI service providers.
+When you use AI-powered functionality, PFolioAI may transmit the information required to process your request to third-party AI service providers.
 
 These providers process the information according to their own privacy policies and applicable contractual or legal requirements.
 
@@ -98,7 +98,7 @@ We do not intentionally send passwords, private keys, brokerage login credential
 
 ## 5. Third-Party Services
 
-PortfolioAI may use third-party services for purposes such as:
+PFolioAI may use third-party services for purposes such as:
 
 * AI processing
 * Application analytics
@@ -111,11 +111,11 @@ These third parties may process certain technical or service-related information
 
 Where applicable, third-party providers may have their own privacy policies governing their processing of information.
 
-PortfolioAI does not control the privacy practices of independent third-party services.
+PFolioAI does not control the privacy practices of independent third-party services.
 
 ## 6. Financial Market Data
 
-PortfolioAI may obtain financial market data from third-party market data providers.
+PFolioAI may obtain financial market data from third-party market data providers.
 
 Market data may include information such as:
 
@@ -146,13 +146,13 @@ Where required by applicable law or platform rules, we will request the appropri
 
 ## 8. Advertising and Tracking
 
-If PortfolioAI displays advertising or uses advertising-related SDKs, those services may collect device or usage information for advertising, measurement, fraud prevention, or related purposes.
+If PFolioAI displays advertising or uses advertising-related SDKs, those services may collect device or usage information for advertising, measurement, fraud prevention, or related purposes.
 
-On platforms that require permission for tracking, PortfolioAI will request the appropriate permission before enabling such tracking.
+On platforms that require permission for tracking, PFolioAI will request the appropriate permission before enabling such tracking.
 
 You can manage applicable tracking permissions through your device settings.
 
-If PortfolioAI does not use advertising or cross-app tracking in a particular version, no such tracking will be performed by that version.
+If PFolioAI does not use advertising or cross-app tracking in a particular version, no such tracking will be performed by that version.
 
 ## 9. Data Retention
 
@@ -166,9 +166,9 @@ Where practical, temporary AI requests and related processing data are not retai
 
 ## 10. Data Deletion
 
-Because PortfolioAI is designed to store portfolio information locally, you can generally delete locally stored portfolio information through the application or by deleting the application's stored data.
+Because PFolioAI is designed to store portfolio information locally, you can generally delete locally stored portfolio information through the application or by deleting the application's stored data.
 
-If PortfolioAI maintains any server-side account or personal information associated with you, you may request deletion of that information by contacting us.
+If PFolioAI maintains any server-side account or personal information associated with you, you may request deletion of that information by contacting us.
 
 Deletion requests may be subject to legal or security requirements.
 
@@ -178,11 +178,11 @@ We take reasonable technical and organizational measures to protect information 
 
 However, no method of electronic storage or transmission is completely secure. We cannot guarantee absolute security of information.
 
-You are responsible for maintaining the security of your device and any information you choose to enter into PortfolioAI.
+You are responsible for maintaining the security of your device and any information you choose to enter into PFolioAI.
 
 ## 12. Children's Privacy
 
-PortfolioAI is not directed toward children.
+PFolioAI is not directed toward children.
 
 We do not knowingly collect personal information from children in violation of applicable laws.
 
@@ -190,7 +190,7 @@ If you believe that a child has provided personal information to us, please cont
 
 ## 13. International Data Transfers
 
-PortfolioAI and its service providers may operate in multiple countries.
+PFolioAI and its service providers may operate in multiple countries.
 
 When information is processed by service providers located outside your country or region, the information may be transferred internationally.
 
@@ -233,9 +233,9 @@ If you have questions about this Privacy Policy, your personal information, or a
 
 ## Important Notice
 
-PortfolioAI is a portfolio management and analysis tool.
+PFolioAI is a portfolio management and analysis tool.
 
-Information, analysis, explanations, estimates, and other content provided by PortfolioAI, including AI-generated content, are for informational and educational purposes only and do not constitute financial, investment, tax, or legal advice.
+Information, analysis, explanations, estimates, and other content provided by PFolioAI, including AI-generated content, are for informational and educational purposes only and do not constitute financial, investment, tax, or legal advice.
 
 You are solely responsible for your investment decisions.
 
